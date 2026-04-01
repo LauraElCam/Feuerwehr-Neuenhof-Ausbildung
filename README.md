@@ -2,7 +2,7 @@
 
 **Interaktives Nachschlagewerk für die Feuerwehr Neuenhof**
 
-Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof! Dieses Projekt dient als zentrale, digitale Anlaufstelle für unsere Mannschaft, um das Schweizer Feuerwehr-Basiswissen (FKS) interaktiv, modern und praxisnah im Bezug auf unsere Feuerwehr zu trainieren.
+Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof! Dieses Projekt dient als zentrale, digitale Anlaufstelle für unsere Mannschaft, um das Schweizer Feuerwehr-Basiswissen (FKS) interaktiv im Bezug auf unsere Feuerwehr zu trainieren.
 
 ---
 
