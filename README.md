@@ -7,13 +7,13 @@
 
 ---
 
-> **Willkommen im Ausbildungs-Repository!** > Dieses Projekt dient als zentrale, digitale Anlaufstelle für unsere Feuerwehr, um das Schweizer Feuerwehr-Basiswissen (FKS) interaktiv, modern und praxisnah zu trainieren.
+> **Willkommen im Ausbildungs-Repository!** > Deine digitale Anlaufstelle für um das Schweizer Feuerwehr-Basiswissen (FKS) im bezug auf unsere Feuerwehr Neuenhof zu trainieren.
 
 ---
 
 ## 📖 Abschnitt 6: Brandbekämpfung 🔥
 
-In diesem Modul geht es um die feuerwehrtechnischen Grundlagen der Brandbekämpfung. Um Theorie und Praxis optimal zu verknüpfen, haben wir verschiedene Medien und unsere interaktive Lern-App für dich zusammengestellt:
+In diesem Modul geht es um die feuerwehrtechnischen Grundlagen der Brandbekämpfung. 
 
 <br>
 
