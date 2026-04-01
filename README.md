@@ -3,7 +3,7 @@
 # Feuerwehr Neuenhof | Ausbildungsportal
 **Das interaktive Nachschlagewerk für unsere Mannschaft**
 
-Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof. Dieses Portal dient als zentrale, digitale Anlaufstelle zur Festigung des Schweizer Feuerwehr-Basiswissens (FKS).
+Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof. Dieses Portal dient als zentrale, digitale Anlaufstelle zur Festigung des Schweizer Feuerwehr-Basiswissens (FKS) bezogen auf unsere Feuerwehr.
 
 ---
 
