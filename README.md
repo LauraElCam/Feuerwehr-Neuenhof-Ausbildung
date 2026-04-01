@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/120x120.png?text=Logo+FW" alt="Feuerwehr Neuenhof Logo" width="120" />
+  <img src="https://via.placeholder.com/120x120.png?text=Logo+FW" alt="Feuer<img width="4328" height="3935" alt="illustrator_logo" src="https://github.com/user-attachments/assets/5fc0a811-323a-4e84-8352-464ddd3cfe4a" />
+wehr Neuenhof Logo" width="120" />
 
   <h1>🚒 Feuerwehr Neuenhof: Ausbildung</h1>
   <p><strong>Interaktives Nachschlagewerk für unsere Mannschaft</strong></p>
