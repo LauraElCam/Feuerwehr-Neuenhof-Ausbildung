@@ -8,9 +8,7 @@ Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof! Dieses Projekt dien
 
 ## 📖 Themenbereiche: Basiswissen
 
-Hier sammeln wir alle relevanten Unterlagen, Lern-Apps und Videos zu den verschiedenen Abschnitten des Basiswissens. Das Projekt ist so aufgebaut, dass es stetig um neue Themen erweitert werden kann.
-
-### Abschnitt: Brandbekämpfung 🔥
+### Abschnitt 6: Brandbekämpfung 🔥
 
 In diesem Modul geht es um die feuerwehrtechnischen Grundlagen der Brandbekämpfung. Um Theorie und Praxis optimal zu verknüpfen, haben wir verschiedene Medien und eine interaktive Lern-App zusammengestellt.
 
