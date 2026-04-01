@@ -11,10 +11,8 @@ Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof. Dieses Portal dient
 
 Dieses Modul vermittelt die feuerwehrtechnischen Grundlagen der Brandbekämpfung durch offizielle Dokumente, Praxis-Videos und interaktive Lernkontrollen.
 
-<br>
-
 #### Dokumentation
-[![FKS Basiswissen](https://img.shields.io/badge/FKS_Reglement-Basiswissen-0052cc?style=flat-square&logo=gitbook&logoColor=white)](https://docs.feukos.ch/Basiswissen/ReglementBasiswissenDE/?page=103)
+[![FKS Basiswissen Abschnit 6_Brandbekämpfung](https://img.shields.io/badge/FKS_Reglement-Basiswissen-0052cc?style=flat-square&logo=gitbook&logoColor=white)](https://docs.feukos.ch/Basiswissen/ReglementBasiswissenDE/?page=103)
 
 #### Praxis-Videos
 [![Hydrantenbedienung](https://img.shields.io/badge/Video-Hydrantenbedienung-DA1A28?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/-iZpxEsfn0k) &nbsp; [![Leitungsbau](https://img.shields.io/badge/Video-Leitungsbau-DA1A28?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/f-EP6WOgRiU9)
