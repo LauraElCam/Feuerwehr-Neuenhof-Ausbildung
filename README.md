@@ -14,6 +14,6 @@ In diesem Modul geht es um die feuerwehrtechnischen Grundlagen der Brandbekämpf
 
 * **📘 Offizielles Basiswissen:** [Link zum FKS Basiswissen-Dokument](https://docs.feukos.ch/Basiswissen/ReglementBasiswissenDE/?page=103)
 * **🎥 Ausbildungsvideos:** [Hier geht es zum YouTube-Video zum Thema Hydrantenbedienung](https://youtu.be/-iZpxEsfn0k) | [Hier geht es zum YouTube-Video zum Thema Leitungsbau](https://youtu.be/f-EP6WOgRiU9)
-* **💻 Interaktive Shiny-App:** [Zur Lern- & Quiz-App: Brandbekämpfung](https://feuerwehr-neuenhof-ausbildung.shinyapps.io/Brandbekaempfung/) *(Hier Theorie lernen und Wissen im Quiz testen!)*
+* **💻 Interaktive Shiny-App:** [Zur Lern- & Quiz-App: Brandbekämpfung](https://feuerwehr-neuenhof-ausbildung.shinyapps.io/Shiny_Brandbekaempfung/) *(Hier Theorie lernen und Wissen im Quiz testen!)*
 
 ---
