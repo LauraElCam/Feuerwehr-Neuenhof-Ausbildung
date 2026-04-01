@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center"><img width="4328" height="3935" alt="illustrator_logo" src="https://github.com/user-attachments/assets/e955bb15-66d1-4238-b702-5f1ad34a22d2" />
+
   <img src="https://via.placeholder.com/120x120.png?text=Logo+FW" alt="Feuer<img width="4328" height="3935" alt="illustrator_logo" src="https://github.com/user-attachments/assets/5fc0a811-323a-4e84-8352-464ddd3cfe4a" />
 wehr Neuenhof Logo" width="120" />
 
