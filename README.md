@@ -14,17 +14,9 @@ Hier sammeln wir alle relevanten Unterlagen, Lern-Apps und Videos zu den verschi
 
 In diesem Modul geht es um die feuerwehrtechnischen Grundlagen der Brandbekämpfung. Um Theorie und Praxis optimal zu verknüpfen, haben wir verschiedene Medien und eine interaktive Lern-App zusammengestellt.
 
-* **📘 Offizielles Basiswissen:** [Link zum FKS Basiswissen-Dokument](#)
+* **📘 Offizielles Basiswissen:** [[Link zum FKS Basiswissen-Dokument](https://docs.feukos.ch/Basiswissen/ReglementBasiswissenDE/?page=103)](#)
 * **🎥 Ausbildungsvideos:** [Hier geht es zu den YouTube-Videos zum Thema Brandbekämpfung](#)
 * **💻 Interaktive Shiny-App:** [Zur Lern- & Quiz-App: Brandbekämpfung](#) *(Hier Theorie lernen und Wissen im Quiz testen!)*
-
----
-
-## 🚀 Geplante Erweiterungen
-
-Dieses Nachschlagewerk wächst kontinuierlich weiter. Als Nächstes sind folgende Module geplant:
-* **Atemschutz** (Shiny-App in Vorbereitung)
-* *(Weitere Themen folgen...)*
 
 ---
 
