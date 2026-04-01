@@ -12,8 +12,9 @@ Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof! Dieses Projekt dien
 
 In diesem Modul geht es um die feuerwehrtechnischen Grundlagen der Brandbekämpfung. Um Theorie und Praxis optimal zu verknüpfen, haben wir verschiedene Medien und eine interaktive Lern-App zusammengestellt.
 
-* **📘 Offizielles Basiswissen:** [Link zum FKS Basiswissen-Dokument](https://docs.feukos.ch/Basiswissen/ReglementBasiswissenDE/?page=103)
-* **🎥 Ausbildungsvideos:** [Hier geht es zum YouTube-Video zum Thema Hydrantenbedienung](https://youtu.be/-iZpxEsfn0k) | [Hier geht es zum YouTube-Video zum Thema Leitungsbau](https://youtu.be/f-EP6WOgRiU9)
-* **💻 Interaktive Shiny-App:** [Zur Lern- & Quiz-App: Brandbekämpfung](https://feuerwehr-neuenhof-ausbildung.shinyapps.io/Shiny_Brandbekaempfung/) *(Hier Theorie lernen und Wissen im Quiz testen!)*
+* [![Basiswissen](https://img.shields.io/badge/📘_Offizielles_Basiswissen-0052cc?style=for-the-badge)](https://docs.feukos.ch/Basiswissen/ReglementBasiswissenDE/?page=103)
+* [![Video Hydrant](https://img.shields.io/badge/🎥_Video:_Hydrantenbedienung-FF0000?style=for-the-badge)](https://youtu.be/-iZpxEsfn0k)
+* [![Video Leitungsbau](https://img.shields.io/badge/🎥_Video:_Leitungsbau-FF0000?style=for-the-badge)](https://youtu.be/f-EP6WOgRiU9)
+* [![Shiny App](https://img.shields.io/badge/💻_Lern--_und_Quiz--App-28a745?style=for-the-badge)](https://feuerwehr-neuenhof-ausbildung.shinyapps.io/Shiny_Brandbekaempfung/) *(Hier Theorie lernen und Wissen im Quiz testen!)*
 
 ---
