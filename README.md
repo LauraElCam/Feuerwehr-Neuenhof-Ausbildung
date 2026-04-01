@@ -2,7 +2,7 @@
 
 **Interaktives Nachschlagewerk für die Feuerwehr Neuenhof**
 
-Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof! Dieses Projekt dient als zentrale, digitale Anlaufstelle für unsere Mannschaft, um das Schweizer Feuerwehr-Basiswissen (FKS) interaktiv, modern und praxisnah zu trainieren.
+Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof! Dieses Projekt dient als zentrale, digitale Anlaufstelle für unsere Mannschaft, um das Schweizer Feuerwehr-Basiswissen (FKS) interaktiv, modern und praxisnah im Bezug auf unsere Feuerwehr zu trainieren.
 
 ---
 
@@ -14,16 +14,8 @@ Hier sammeln wir alle relevanten Unterlagen, Lern-Apps und Videos zu den verschi
 
 In diesem Modul geht es um die feuerwehrtechnischen Grundlagen der Brandbekämpfung. Um Theorie und Praxis optimal zu verknüpfen, haben wir verschiedene Medien und eine interaktive Lern-App zusammengestellt.
 
-* **📘 Offizielles Basiswissen:** [[Link zum FKS Basiswissen-Dokument](https://docs.feukos.ch/Basiswissen/ReglementBasiswissenDE/?page=103)]
-* **🎥 Ausbildungsvideos:** [[Hier geht es zu den YouTube-Video zum Thema Hydrantbedienung](https://youtu.be/-iZpxEsfn0k)] [[Hier geht es zu den YouTube-Video zum Thema Leitungsbau](https://youtu.be/f-EP6WOgRiU9)]
-* **💻 Interaktive Shiny-App:** [[Zur Lern- & Quiz-App: Brandbekämpfung](https://feuerwehr-neuenhof-ausbildung.shinyapps.io/Brandbekaempfung/)](#) *(Hier Theorie lernen und Wissen im Quiz testen!)*
+* **📘 Offizielles Basiswissen:** [Link zum FKS Basiswissen-Dokument](https://docs.feukos.ch/Basiswissen/ReglementBasiswissenDE/?page=103)
+* **🎥 Ausbildungsvideos:** [Hier geht es zum YouTube-Video zum Thema Hydrantenbedienung](https://youtu.be/-iZpxEsfn0k) | [Hier geht es zum YouTube-Video zum Thema Leitungsbau](https://youtu.be/f-EP6WOgRiU9)
+* **💻 Interaktive Shiny-App:** [Zur Lern- & Quiz-App: Brandbekämpfung](https://feuerwehr-neuenhof-ausbildung.shinyapps.io/Brandbekaempfung/) *(Hier Theorie lernen und Wissen im Quiz testen!)*
 
 ---
-
-## 🛠️ Technische Struktur (Für Entwickler)
-
-Dieses Repository ist als Monorepo aufgebaut. Die interaktiven Module basieren auf **R und Shiny**. 
-
-Jedes Themengebiet hat seinen eigenen Ordner:
-* `/brandbekaempfung/` enthält die `app.R` sowie den `/www/`-Ordner für Bilder und Ergebnis-Exporte.
-* Weitere Module (wie `/atemschutz/`) werden nach demselben Prinzip hinzugefügt.
