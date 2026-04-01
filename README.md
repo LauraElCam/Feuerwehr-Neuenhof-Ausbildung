@@ -9,7 +9,7 @@ Willkommen im Ausbildungs-Repository der Feuerwehr Neuenhof. Dieses Portal dient
 
 ## Abschnitt 6: Brandbekämpfung
 
-Dieses Modul vermittelt die feuerwehrtechnischen Grundlagen der Brandbekämpfung durch offizielle Dokumente, Praxis-Videos und interaktive Lernkontrollen.
+Dieses Modul vermittelt die feuerwehrtechnischen Grundlagen der Brandbekämpfung.
 
 #### Dokumentation
 [![FKS Basiswissen Abschnit 6_Brandbekämpfung](https://img.shields.io/badge/FKS_Reglement-Basiswissen-0052cc?style=flat-square&logo=gitbook&logoColor=white)](https://docs.feukos.ch/Basiswissen/ReglementBasiswissenDE/?page=103)
