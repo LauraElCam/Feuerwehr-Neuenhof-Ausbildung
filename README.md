@@ -13,7 +13,7 @@
 ---
 
 ## Willkommen im Ausbildungs-Repository
-Deine digitale Anlaufstelle für das Schweizer Feuerwehr-Basiswissen (FKS) für unsere Feuerwehr Neuenhof.
+Hier kannst du das theoretische Feuerwehrhandwerk praxisnah für die Feuerwehr Neuenhof erlernen. 
 
 ---
 
